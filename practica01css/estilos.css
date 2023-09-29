@@ -55,3 +55,37 @@ header nav ul li {
     border: 5px solid rgba(150,150,150,0.25);
     width:98%;
 }
+
+#Seccion02{
+    margin-bottom: 50px;
+}
+
+#Seccion02 article {
+    /*border: 1px solid blue;*/
+    display: inline-block;
+    vertical-align: top;
+    width: 33.0%;
+}
+
+#Seccion02 article input[type="submit"]{
+    background: white;
+    border-radius: 5px;
+    color:blue;                                               
+    padding: 5px 5px;
+    margin-left:130px;
+
+}
+
+.nito{
+    font-weight: bold;  /*NEGRITAS*/
+}
+
+.otraSeccion {
+    font-size: 2.5em;
+}
+
+.unaSeccion{
+    font-size:4.5em; 
+}
+
+
